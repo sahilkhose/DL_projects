@@ -1,0 +1,6 @@
+1. fingers dir: contains 2 dirs train and test
+2. dataset_script: used to make the dir into meaningful dirs for training and validation
+3. train_script: defines model and trains, acc: 99.86, val_acc: 99.97 after 2 epochs
+4. a1.model: saved model after training
+5. test_script: used to test the model 
+6. info: contains info about the dirs and files of this project
