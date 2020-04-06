@@ -1,3 +1,5 @@
+dataset: https://www.kaggle.com/koryakinp/fingers
+
 1. fingers dir: contains 2 dirs train and test
 2. dataset_script: used to make the dir into meaningful dirs for training and validation
 3. train_script: defines model and trains, acc: 99.86, val_acc: 99.97 after 2 epochs
